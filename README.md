@@ -13,7 +13,7 @@ Hedgeable
 - Validation 2014-07-01 to 2015-06-30
 - Test 2015-07-01 to 2016-06-30
 
-# INITAL ANALYSIS
+# INITIAL ANALYSIS
 - The model I initially used was just a simple Random Forest with 1-gram tfidf. I also played around with BOWs. I chose my baseline model to be Random Forest so I could analyze feature importance and get some understanding that the model made sense.
 - The baseline score I got was 49% with bi-grams .
 
