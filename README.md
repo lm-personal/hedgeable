@@ -4,7 +4,7 @@ Hedgeable
 - My final model was using a LSTM using Word2Vec word embeddings.
 - I have saved the model into the model folder
 - To read in the model that I have create and generate outputs please run the evaluate_model.py script.
-- The whole script is DJIAI_reddit_model.py (however this uses the pre-trained Google word vector and this file is too large to upload to github.
+- The whole script is DJIAI_reddit_model.py (however this uses the pre-trained Google word vector and this file is too large to upload to github.)
 - the file testpreds_word2vecLSTM_final.csv will include the test output and the predictions.
 
 # PROCESS
