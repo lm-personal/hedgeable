@@ -1,5 +1,4 @@
-# Projects
-Hedgeable
+# Projects: Hedgeable
 
 # FINAL MODEL:
 - My final model was using a LSTM using Word2Vec word embeddings.
